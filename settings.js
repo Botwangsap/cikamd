@@ -22,27 +22,27 @@ global.APIKeys = {
 }
 
 //—————「 Setting Owner 」—————//
-global.owner = ['6281575886399','6281575886399','6281575886399'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.premium = ['6281575886399'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.ownernomer = '6281575886399' //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.owner = ['6285923463470','79252816356','6285923463470'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.premium = ['6285923463470'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.ownernomer = '6285923463470' //ubah jadi nomor mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'Riy' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'Chika-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'Riy' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'AnggaKz🐸' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = 'Lisabotz-MD🥰🐸' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = 'AnggaKz🐸' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
-global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
-global.ig = 'https://instagram.com/riychdwayne'
-global.mygc = 'https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw'
-global.myweb = 'https://s.id/chikabot'
-global.email = 'riychdwaynee@gmail.com'
+global.youtube = 'https://instagram.com/anggatzi123'
+global.ig = 'https://instagram.com/anggatzi123'
+global.mygc = 'https://chat.whatsapp.com/Ly28IB8Fel4JbPS0qCUy2p'
+global.myweb = 'https://instagram.com/anggatzi123'
+global.email = 'RobotWhatsapp@gmail.com'
 global.region = 'indonesia'
 
 //—————「 Set Wm 」—————//
-global.packname = '© Chika-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.author = 'Riy' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.packname = '© Lisabotz-MD🐸🥰🤖' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.author = '® AnggaKz🐸🔥' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Session 」—————//
 //gausah di apa² in!
@@ -57,7 +57,7 @@ free: 15,
 
 //—————「 Set Image 」—————//
 //terserah mau ubah apa nggak, menurut gua jangan di ubah!
-global.thumb = fs.readFileSync('./image/chika.jpg')
+global.thumb = fs.readFileSync('./image/8c800385908e989198e124a599157e6e.jpg')
 /*global.veloriy = fs.readFileSync('./image/chika.mp4')*/
 
 //—————「 Set Image Welcome 」—————//
